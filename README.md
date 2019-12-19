@@ -1,4 +1,4 @@
-# Gmail Header Retrieval
+# Gmail Headers Retrieval
  Retrieves Gmail Headers and sort it according to sender address or domain name.
 
 
